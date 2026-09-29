@@ -1,7 +1,7 @@
-## Particle-Size-Analysis
+### Particle-Size-Analysis
 Desktop application for grain size analysis using multiple sieves, with automatic calculation of the final coefficient.
 
-##OVERVIEW
+### OVERVIEW
 
 Grain Size Coefficient Calculator is a lightweight desktop application designed to simplify granulometric calculations for industrial processes.
 
@@ -10,7 +10,7 @@ The application allows the user to enter the weight (in grams) retained on each 
 The tool is suitable for small, medium, and large industrial plants requiring fast and reliable granulometric analysis.
 
 
-##FEATURES
+### FEATURES
 
 Simple and intuitive desktop interface
 Input of retained material weight for each sieve
@@ -21,7 +21,7 @@ No installation required
 Portable executable file
 
 
-##HOW IT WORKS
+### HOW IT WORKS
 
 
 Enter the weight (grams or what you want) retained on each sieve.
@@ -32,7 +32,7 @@ The final granulometric coefficient is displayed.
 The calculation considers the contribution of every sieve, ensuring an accurate overall result.
 
 
-##TYPICAL APPLICATIONS
+### TYPICAL APPLICATIONS
 
 This software can be used in:
 
@@ -43,7 +43,7 @@ Material quality control laboratories
 Granulometric analysis processes
 
 
-##INSTALLATION
+### INSTALLATION
 
 No installation is required.
 
@@ -56,7 +56,7 @@ Start entering sieve weights and perform calculations immediately.
 The application does not require additional libraries, databases, or configuration files.
 
 
-##SYSTEM REQUIREMENTS
+### SYSTEM REQUIREMENTS
 
 Windows 10 / Windows 11
 Minimum 4 GB RAM
@@ -70,7 +70,7 @@ Sieve Diameter	Weight (g)10 mm	120
 After entering the values, the application automatically applies the corresponding coefficients and calculates the final result.
 
 
-##ADVANTAGES
+### ADVANTAGES
 
 Fast calculations
 Reduced risk of manual errors
@@ -79,7 +79,7 @@ Easy to use by operators and technicians
 Suitable for industrial environments
 
 
-##LICENSE
+### LICENSE
 
 This project is provided as-is for industrial and technical use.
 
