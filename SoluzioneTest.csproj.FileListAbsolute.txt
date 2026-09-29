@@ -1,0 +1,19 @@
+C:\Users\Administrator\Documents\SoluzioneTest\SoluzioneTest\bin\Debug\SoluzioneTest.exe.config
+C:\Users\Administrator\Documents\SoluzioneTest\SoluzioneTest\bin\Debug\SoluzioneTest.exe
+C:\Users\Administrator\Documents\SoluzioneTest\SoluzioneTest\bin\Debug\SoluzioneTest.pdb
+C:\Users\Administrator\Documents\SoluzioneTest\SoluzioneTest\obj\Debug\SoluzioneTest.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\SoluzioneTest\SoluzioneTest\obj\Debug\SoluzioneTest.Form1.resources
+C:\Users\Administrator\Documents\SoluzioneTest\SoluzioneTest\obj\Debug\SoluzioneTest.Properties.Resources.resources
+C:\Users\Administrator\Documents\SoluzioneTest\SoluzioneTest\obj\Debug\SoluzioneTest.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\SoluzioneTest\SoluzioneTest\obj\Debug\SoluzioneTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\SoluzioneTest\SoluzioneTest\obj\Debug\SoluzioneTest.exe
+C:\Users\Administrator\Documents\SoluzioneTest\SoluzioneTest\obj\Debug\SoluzioneTest.pdb
+C:\Users\Administrator\Documents\Calcolo Granulometria\SoluzioneTest\bin\Debug\Granulometria.exe
+C:\Users\Administrator\Documents\Calcolo Granulometria\SoluzioneTest\bin\Debug\Granulometria.pdb
+C:\Users\Administrator\Documents\Calcolo Granulometria\SoluzioneTest\obj\Debug\SoluzioneTest.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Calcolo Granulometria\SoluzioneTest\obj\Debug\SoluzioneTest.Form1.resources
+C:\Users\Administrator\Documents\Calcolo Granulometria\SoluzioneTest\obj\Debug\SoluzioneTest.Properties.Resources.resources
+C:\Users\Administrator\Documents\Calcolo Granulometria\SoluzioneTest\obj\Debug\SoluzioneTest.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Calcolo Granulometria\SoluzioneTest\obj\Debug\SoluzioneTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Calcolo Granulometria\SoluzioneTest\obj\Debug\Granulometria.exe
+C:\Users\Administrator\Documents\Calcolo Granulometria\SoluzioneTest\obj\Debug\Granulometria.pdb
